@@ -1,4 +1,4 @@
-# OCR Project - Florence2
+# OCR Project - Florence 2
 
 < Microsoft Florence2 비전모델을 활용한 OCR > <br>
 마이크로소프트에서 공개한 비전모델 **Florence2** 딥러닝 모델을 활용하여 개발한 **OCR** 프로그램입니다. 개발하며 테스트해본 결과 아직 한국어는 제대로 포착하지 못하였으나, 영어는 현재 공개된 오픈소스 (Tesseract, easyOCR, etc...) 만큼 좋은 성능을 보여준다고 생각됩니다.
