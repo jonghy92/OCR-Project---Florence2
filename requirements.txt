@@ -1,0 +1,8 @@
+transformers
+timm
+packaging
+wheel
+ninja
+flash_attn
+einops
+accelerate
